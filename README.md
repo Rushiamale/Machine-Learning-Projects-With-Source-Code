@@ -6,11 +6,11 @@ I am a Computer Science Student at RV COLLEGE OF ENGINEERING. Connect me on [Lin
 
 
 List of Projects :-
-Action Detection for Sign Languages
-House Price Prediction
-Heart Failure Prediction System
-Spam Detector System
-Stock Price Predictor
+1.Action Detection for Sign Languages
+2.House Price Prediction
+3.Heart Failure Prediction System
+4.Spam Detector System
+5.Stock Price Predictor
   
 
 
